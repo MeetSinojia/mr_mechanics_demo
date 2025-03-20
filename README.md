@@ -3,7 +3,7 @@
 A full-stack mobile application built using Flutter (Frontend) & Golang (Backend), designed for vendor management, bookings, billing, inventory, notifications, and multilingual support.
 
 ## 🎥 Demo
-[View Demo Screenshots](https://github.com/MeetSinojia/mr_mechanic_codebase/blob/main/demo/demo.md)
+[View Demo Screenshots](https://github.com/MeetSinojia/mr_mechanics_demo/blob/main/demo/demo.md)
 
 ## 📑 Table of Contents
 - 📌 Features
